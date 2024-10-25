@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "notebook"
+  site-url: "https://OscarIgM.github.io/notebook"
+  description: "datos"
+  repo-branch: main
+  repo-url: "https://github.com/OscarIgM/notebook"

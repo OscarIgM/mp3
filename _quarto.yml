@@ -1,0 +1,14 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Tu Proyecto"
+  navbar:
+    right:
+      - text: "GitHub"
+        href: "https://github.com/OscarIgM/mp3"
+
+format:
+  html:
+    toc: true
